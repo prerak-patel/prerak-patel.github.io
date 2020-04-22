@@ -1,0 +1,23 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: lightgrey;
+    
+}
+
+.navbar-light .navbar-brand{
+    position: relative;
+    font-weight: bold;
+    left:80px;
+    color: white;
+    padding: 15px 16px;
+    font-family: 'Times New Roman';
+    background-color: lightseagreen;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    position: relative;
+    right: 15px;
+    padding: 14px 16px;
+}
+
